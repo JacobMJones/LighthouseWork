@@ -1,0 +1,6 @@
+var nameOfCourse = "Web Dev";
+
+var student1 = 'Jacob';
+var student2 = 'Sara';
+
+console.log(student1);

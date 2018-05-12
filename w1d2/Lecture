@@ -1,0 +1,6 @@
+Take a problem and divide it into pieces
+
+1. toFixed('decimal place').
+
+>(0 + .1 + .1 + .1 + .1).toFixed(1);
+'0.4'
